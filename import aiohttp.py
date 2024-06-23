@@ -4,7 +4,7 @@ import asyncio
 
 from telebot.async_telebot import AsyncTeleBot
 
-bot = AsyncTeleBot("7247899723:AAHKLHQkoJCxxR8kZj4M_u9lKfg2BcA9V80")
+bot = AsyncTeleBot("")
 
 
 
